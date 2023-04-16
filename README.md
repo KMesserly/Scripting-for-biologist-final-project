@@ -3,6 +3,15 @@ This tutorial will walk you through three diffrent vizualization techniques in p
 
 The first step in the data visualization process is cleaning and prepping the data. This step is different depending on the type of data format or the file you are visualizing. For our example, we will be using data from the Pan-European Common Bird Monitoring Scheme. This data set tracks the population sizes of common bird species in Europe. Specificallly I have provided a file named "population.csv" which includes the bird species that the Pan-European Common Monitoring Scheme started recording population size for in 1990. The species in "population.csv" were initially sampled in 1990 and the recorded data looks at the index % change in population size since that initial sampling in 1990 until 2021.
 
+# Tutorial Objectives
+1. Introduce the basics of data visualization with Python.
+2. Understanding different types of data visualizations and their appropriate use cases.
+3. Learning how to create common visualizations, such as line charts, area charts and heat maps.
+4. Understand how to customize visualizations to improve their clarity and effectiveness
+5. Introducing popular Python libraries for visualization, such as Matplotlib and Seaborn.
+6. Provide examples of how to use visualization to analyze and communicate insights from real-world datasets
+7. Discuss best practices for data visualization, including data ethics and how to avoid common mistakes
+
 
 # Scripts
 1. **line_chart.py** - this script creates a line graph that shows the trends in the relative change in population of different European bird species over time. The final visualization is saved as a PNG image file.
