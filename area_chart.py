@@ -28,4 +28,4 @@ g.fig.suptitle('Relative Change in European Bird Populations Since 1990', fontsi
 plt.subplots_adjust(top=0.9, hspace=0.5)
 
 #Save the figure
-g.savefig("Area_chart.png")
+g.savefig("area_chart.png")
