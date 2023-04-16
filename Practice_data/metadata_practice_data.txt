@@ -1,5 +1,0 @@
-excitatory_neuron
-excitatory_neuron
-inhibitory_neuron
-excitatory_neuron
-inhibitory_neuron
