@@ -9,8 +9,8 @@ The first step in the data visualization process is cleaning and prepping the da
 3. Learning how to create common visualizations, such as line charts, area charts and heat maps.
 4. Understand how to customize visualizations to improve their clarity and effectiveness
 5. Introducing popular Python libraries for visualization, such as Matplotlib and Seaborn.
-6. Provide examples of how to use visualization to analyze and communicate insights from real-world datasets
-7. Discuss best practices for data visualization, including data ethics and how to avoid common mistakes
+6. Provide examples of how to use visualization to analyze and communicate insights from real-world datasets.
+7. Discuss best practices for data visualization, including data ethics and how to avoid common mistakes.
 
 
 # Scripts
